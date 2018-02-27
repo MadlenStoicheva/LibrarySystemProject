@@ -48,3 +48,17 @@ C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\Library
 C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystem.Data\obj\Debug\LibrarySystem.Data.csprojResolveAssemblyReference.cache
 C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystem.Data\obj\Debug\LibrarySystem.Data.dll
 C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystem.Data\obj\Debug\LibrarySystem.Data.pdb
+D:\LibrarySystemUni\LibrarySystem.Data\bin\Debug\LibrarySystem.Data.dll.config
+D:\LibrarySystemUni\LibrarySystem.Data\bin\Debug\LibrarySystem.Data.dll
+D:\LibrarySystemUni\LibrarySystem.Data\bin\Debug\LibrarySystem.Data.pdb
+D:\LibrarySystemUni\LibrarySystem.Data\bin\Debug\EntityFramework.dll
+D:\LibrarySystemUni\LibrarySystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\LibrarySystemUni\LibrarySystem.Data\bin\Debug\LibrarySystem.Entity.dll
+D:\LibrarySystemUni\LibrarySystem.Data\bin\Debug\LibrarySystem.Entity.pdb
+D:\LibrarySystemUni\LibrarySystem.Data\bin\Debug\LibrarySystem.Entity.dll.config
+D:\LibrarySystemUni\LibrarySystem.Data\bin\Debug\EntityFramework.xml
+D:\LibrarySystemUni\LibrarySystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\LibrarySystemUni\LibrarySystem.Data\obj\Debug\LibrarySystem.Data.csprojResolveAssemblyReference.cache
+D:\LibrarySystemUni\LibrarySystem.Data\obj\Debug\LibrarySystem.Data.csproj.CoreCompileInputs.cache
+D:\LibrarySystemUni\LibrarySystem.Data\obj\Debug\LibrarySystem.Data.dll
+D:\LibrarySystemUni\LibrarySystem.Data\obj\Debug\LibrarySystem.Data.pdb
