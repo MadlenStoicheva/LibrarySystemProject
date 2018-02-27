@@ -7,13 +7,18 @@
 
 @*@{
     if (LibrarySystemProject.LoginFilter.LoginUser.IsAdmin())
-    {*@
+    {
 
         <button class="btn-success" style="border-radius:25px; background-color:#333; border-color:#333; height:3em; width:7em; margin-bottom:20px; ">
             @Html.ActionLink("Get book", "Create", "TakeABooks", new { @style = "color:white; text-decoration:none; font-weight:bold;" })
         </button>
 
-        @*} }*@
+        } }*@
+
+
+        <button class="btn-success" style="border-radius:25px; background-color:#333; border-color:#333; height:3em; width:7em; margin-bottom:20px; ">
+            @Html.ActionLink("Get book", "Create", "TakeABooks", new { @style = "color:white; text-decoration:none; font-weight:bold;" })
+        </button>
         <table class="table">
             <thead>
                 <tr class="btn-success" style="background-color:#333; border-color:#333;">
