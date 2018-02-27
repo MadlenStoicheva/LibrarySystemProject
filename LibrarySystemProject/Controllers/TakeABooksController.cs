@@ -18,25 +18,26 @@ namespace LibrarySystemProject.Controllers
             TakeABookRepository repository = new TakeABookRepository();
 
             List<TakeABook> takeABooks = repository.GetAll();
-            List<TakeABook> takeABook = new List<TakeABook>();
-            if (LoginFilter.LoginUser.IsAdmin())
-            {
-                takeABook = takeABooks;
-            }
-            else
-            {
-                foreach (var item in takeABooks)
-                {
-                    if(item.ReaderId== LoginFilter.LoginUser.GetUserId())
-                    {
-                        takeABook.Add(item);
-                    }
-                }
-            }
-           
+            //List<TakeABook> takeABook = new List<TakeABook>();
+            //if (LoginFilter.LoginUser.IsAdmin())
+            //{
+            //    takeABook = takeABooks;
+            //}
+            //else
+            //{
+            //    foreach (var item in takeABooks)
+            //    {
+            //        if(item.ReaderId== LoginFilter.LoginUser.GetUserId())
+            //        {
+            //            takeABook.Add(item);
+            //        }
+            //    }
+            //}
+            
 
             TakeABookListViewModel model = new TakeABookListViewModel();
-            model.TakeABooks = takeABook;
+            //model.TakeABooks = takeABook;
+            model.TakeABooks = takeABooks;
 
             return View(model);
         }
