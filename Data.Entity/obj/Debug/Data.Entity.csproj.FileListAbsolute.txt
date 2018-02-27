@@ -125,5 +125,5 @@ D:\LibrarySystemUni\Data.Entity\obj\Debug\Data.Entity.csprojResolveAssemblyRefer
 D:\LibrarySystemUni\Data.Entity\obj\Debug\Data.Entity.csproj.CoreCompileInputs.cache
 D:\LibrarySystemUni\Data.Entity\obj\Debug\Data.Entity.dll
 D:\LibrarySystemUni\Data.Entity\obj\Debug\Data.Entity.pdb
-D:\LibrarySystemUni\Data.Entity\obj\Debug\Data.Entity.Migrations.Automatic.resources
+D:\LibrarySystemUni\Data.Entity\obj\Debug\Data.Entity.Migrations.Initial.resources
 D:\LibrarySystemUni\Data.Entity\obj\Debug\Data.Entity.csproj.GenerateResource.Cache
