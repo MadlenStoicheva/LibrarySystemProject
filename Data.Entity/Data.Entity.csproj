@@ -48,9 +48,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="LibrarySystemContext.cs" />
-    <Compile Include="Migrations\201802251910483_Automatic.cs" />
-    <Compile Include="Migrations\201802251910483_Automatic.Designer.cs">
-      <DependentUpon>201802251910483_Automatic.cs</DependentUpon>
+    <Compile Include="Migrations\201802271623242_Automatic.cs" />
+    <Compile Include="Migrations\201802271623242_Automatic.Designer.cs">
+      <DependentUpon>201802271623242_Automatic.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -127,8 +127,8 @@
     <Content Include="Scripts\jquery-ui-1.12.1.min.js" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201802251910483_Automatic.resx">
-      <DependentUpon>201802251910483_Automatic.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201802271623242_Automatic.resx">
+      <DependentUpon>201802271623242_Automatic.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -13,7 +13,7 @@ namespace Data.Entity.Migrations
         
         string IMigrationMetadata.Id
         {
-            get { return "201802251910483_Automatic"; }
+            get { return "201802271623242_Automatic"; }
         }
         
         string IMigrationMetadata.Source
